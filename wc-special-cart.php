@@ -5,7 +5,7 @@ Description: Applies customizable shipping fee for specific products or categori
 Version: 1.0
 Author: Alireza Fatemi
 Author URI: https://alirezafatemi.ir
-Plugin URI: https://github.com/Ftepic
+Plugin URI: https://github.com/deveguru
 Text Domain: wc-specific-discount
 Domain Path: /languages
 */
